@@ -8,7 +8,7 @@ This repository includes several scripts used in the study. Below is a brief ove
 - **helper scripts**: some other example of control programs for the AVC for other microfluidic chips.
 
 
-| ![Figure 1](/Mask%20Designs/Example_Fig/Mother_machine.png) |
+| ![Figure 1](/Figures/Example_Device.png) |
 |---|
 | Example 1 - Layout of the three layers device MS7 |
 
