@@ -7,10 +7,11 @@ This repository includes several scripts used in the study. Below is a brief ove
 - **AVC_lib:** set of (mostly) Matlab libraries and function that code for the most commond commands that would be used in an AVC. 
 - **helper scripts**: some other example of control programs for the AVC for other microfluidic chips.
 
+| Figures | Description |
+| --- | --- |
+| ![Figure 1](/Figures/Example_Device.png) | Layout of the MS7 control program in action in Matlab |
+| ![Figure 2](/Figures/Example_Device.png) | Layout of the three layers device MS7 |
+| ![Figure 3](/Figures/Example_Device.png) | Set up at the microscopy with AVC system in the background |
 
-| ![Figure 1](/Figures/Example_Device.png) |
-|---|
-| Example 1 - Layout of the three layers device MS7 |
 
-
-Some practical specifics can be found in appendix to the [thesis](https://edoc.unibas.ch/65308/1/Thesis_v11_edoc.pdf) manuscript. 
+Some practical details on using the software and installation can be found in appendix to the [thesis](https://edoc.unibas.ch/65308/1/Thesis_v11_edoc.pdf) manuscript. 
