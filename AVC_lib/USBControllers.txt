@@ -1,0 +1,11 @@
+% Serial numbers of valve controllers
+% Order of serial numbers defines the valve numbering
+% 1st controller has valves 0 to 23, 2nd has 24 to 47, etc.
+% After the serial number, the polarity of the valves should be specified
+% The polarity is separated from the serial number by a TAB
+% The polarity is specified by a series of letters, one letter for each valve:
+% o = Normally open, c = Normally closed
+% i.e. ELCAEP93 <TAB> cco
+ELR0F3IC	oooooooooooooooooooooooo
+ELR3BG9L	oooooooooooooooocccccccc
+ELR3BG0X	ccccccccooooooocoooooooo
