@@ -12,9 +12,9 @@ This repository includes several scripts used in the study. Below is a brief ove
 | ![Figure 1](/Figures/Example_Device.png) | Layout of the MS7 control program in action in Matlab |
 | ![Figure 2](/Figures/AVC_MS7.png) | Layout of the three layers device MS7 |
 
-Some practical details on using the software and installation can be found in appendix to the [thesis](https://edoc.unibas.ch/65308/1/Thesis_v11_edoc.pdf) manuscript. 
+THe design MS7 was primarily created to move specifi amount of fluid in and out of specific chambers, thus controlling the coming of cells and nutrients. More practical details on using the software and installation can be found in appendix to the [thesis](https://edoc.unibas.ch/65308/1/Thesis_v11_edoc.pdf) manuscript. 
 
 | ![Figure 3](/Figures/Valves_and_Isolation.png) | 
 | --- |
-| Set up at the microscopy with AVC system in the background |
+| Time lapses example of the program in action, where an individual champer filled with fluorescent signal (A) is then emptied (B), filled with beads (C), then filled again with fluorescent fluid (D). In the las subfigre (E) the closed valve are visibly cutting off the chamber from the channel and isolating its content |
 
