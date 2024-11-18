@@ -10,8 +10,11 @@ This repository includes several scripts used in the study. Below is a brief ove
 | Figures | Description |
 | --- | --- |
 | ![Figure 1](/Figures/Example_Device.png) | Layout of the MS7 control program in action in Matlab |
-| ![Figure 2](/Figures/Example_Device.png) | Layout of the three layers device MS7 |
-| ![Figure 3](/Figures/Example_Device.png) | Set up at the microscopy with AVC system in the background |
-
+| ![Figure 2](/AVC_MS7.png) | Layout of the three layers device MS7 |
 
 Some practical details on using the software and installation can be found in appendix to the [thesis](https://edoc.unibas.ch/65308/1/Thesis_v11_edoc.pdf) manuscript. 
+
+| ![Figure 3](/Valves_and_Isolation.png) | 
+| --- |
+| Set up at the microscopy with AVC system in the background |
+
